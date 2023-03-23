@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ocean>
+    <oceans>
+        <name>Arctic Ocean</name>
+        <area>16.5 million km²</area>
+        <deepest_point>4,665 meters (15,305 feet) </deepest_point>
+        <temperature_range>
+            <temp> -2°C to 10°C (28°F to 50°F)</temp>
+            <temp>10°C (50°F)</temp>
+            <temp>-2°C (28°F)</temp>
+            <temp>-1.8°C (28.8°F)</temp>
+        </temperature_range>
+        <name>North Atlantic</name>
+        <area>106.5 million km²</area>
+        <deepest_point>8,376 meters (27,480 feet).</deepest_point>
+        <temperature_range>
+            <temp>10°C to 25°C (50°F to 77°F)</temp>
+            <temp>0°C to 10°C (32°F to 50°F)</temp>
+            <temp>5°C to 20°C (41°F to 68°F)</temp>
+            <temp>5°C to 15°C (41°F to 59°F)</temp>
+        </temperature_range>
+        <name>Indian Ocean</name>
+        <area>70.56 million km²</area>
+        <deepest_point>7,725 meters (25,344 feet)</deepest_point>
+        <temperature_range>
+            <temp>25°C to 30°C (77°F to 86°F)</temp>
+            <temp>20°C to 25°C (68°F to 77°F)</temp>
+            <temp>15°C to 25°C (59°F to 77°F)</temp>
+            <temp>10°C to 20°C (50°F to 68°F)</temp>
+        </temperature_range>
+        <name>Pacific Ocean</name>
+        <area>165.2 million km²</area>
+        <deepest_point>10,911 meters (35,797 feet)</deepest_point>
+        <temperature_range>
+            <temp> 20°C to 28°C (68°F to 82°F)</temp>
+            <temp> 17°C to 24°C (63°F to 75°F)</temp>
+            <temp>10°C to 20°C (50°F to 68°F)</temp>
+            <temp>15°C to 25°C (59°F to 77°F)</temp>
+        </temperature_range>
+        <name>Southern Ocean</name>
+        <area>20.33 million km²</area>
+        <deepest_point>7,236 meters (23,740 feet)</deepest_point>
+        <temperature_range>
+            <temp>-2°C to 10°C (28°F to 50°F) </temp>
+            <temp>-2°C to 2°C (28°F to 36°F)</temp>
+            <temp>-2°C to 10°C (28°F to 50°F) </temp>
+            <temp> -2°C to 5°C (27°F to 35°F)</temp>
+        </temperature_range>
+    </oceans>
+</ocean>
